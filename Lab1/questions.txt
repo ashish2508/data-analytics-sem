@@ -1,0 +1,5 @@
+1. add 2 numbers and display it.
+2. find area of circle
+3. convert paise to rupees and paise
+4. convert metres to km and m
+5. find out the largest number among 2 numbers 
